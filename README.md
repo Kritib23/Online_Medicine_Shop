@@ -22,5 +22,3 @@ cd Implementation
 javac code.java
 java code
 ```
-
-## This project was made by Kriti Bhardwaj (20CS30028)
