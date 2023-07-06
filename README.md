@@ -1,5 +1,5 @@
 # Online Medicine Shop - Software-Lab
-This is the course project for Software Engineering (CS29006) under Prof. Sourangshu Bhattacharya.
+This is a course project for Software Engineering (CS29006) under Prof. Sourangshu Bhattacharya.
 
 ## About
 This is a Command Line Interface platform to automate an Online Medicine Shop made using *Java* Programming language.
